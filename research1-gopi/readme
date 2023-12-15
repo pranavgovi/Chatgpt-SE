@@ -1,4 +1,4 @@
 code to filter dataset.ipynb   -contains the code to remove the chinese,japanese and special characters
 preprocessed result.csv - output  after removing the  unwanted characters
 LDA code - this is the main program which generated the output i needed
-output.html - final reuslt what i have obtained
+output.ipynb - final reuslt what I have obtained
