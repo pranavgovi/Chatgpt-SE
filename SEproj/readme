@@ -1,0 +1,21 @@
+Code_retrieval.ipynb           -     Extracts all code snippets
+
+ChatgptCodeswithoutDuplicates folder  - Contains all code snippets with duplicates
+
+RemoveDuplicateCode.py   -  Removes all duplicate codes
+
+Chatgpt_codes    - Contains codes without duplicates
+
+timecomplexity_analysis.py   - To get analysis from Codepal API 
+
+API_output.txt  - Output from Codepal API
+
+TimeComplexityAnalysis.txt    -  Extracts Time complexity from API_output.txt
+
+FinalCodeAndOutput   - This contains the final input and output.
+
+
+
+
+
+
