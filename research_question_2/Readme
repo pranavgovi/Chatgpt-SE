@@ -1,1 +1,25 @@
+research question 2 
+This research question  involves enhancing user experience related to Api isuues and giving relevant prompts, the development of an automated text processing pipeline using five distinct files. The goal is to extract prompts from a designated file, filter data based on a CSV file, perform stemming and tokenization, apply regex patterns matching, and generate a final training dataset. The entire workflow will be executed within a Jupyter Notebook environment.
 
+Project Structure:
+Extract Prompts File (extract_prompts.py):
+
+Responsible for extracting prompts from a specified file.
+Input: Raw text file.
+Output: CSV file containing extracted prompts.
+Filtered Data File (filter_data.py):
+
+Filters data based on the extracted prompts from the CSV file.
+Input: Original data file, CSV file with prompts.
+Output: Filtered data file.
+Match Regex File (match_regex.py):
+
+Applies regex patterns to the filtered data.
+Input: Filtered data file.
+Output: Data file with matched regex patterns.
+Stemming and Tokenization File (stem_token.py):
+
+Performs stemming and tokenization on the data.
+Input: Data file with matched regex patterns.
+Output: Processed data file.
+Training Data File (train_data.py):
