@@ -16,6 +16,6 @@ File structure:
  'research_question_2'   -    contains all the files for 2nd question.
  'research_question_2/Readme'  - This readme file explains the structure for second question.
 
-4)
+3)
 'SEproj' - contains all the files for 3rd research question.
 'SEproj/readme' - this readme file explains the structure for the third question.
