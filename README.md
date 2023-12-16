@@ -2,7 +2,8 @@
 File structure:
 1)
 'research1-gopi'  - contains all the files for 1st question
-'research1-gopi/readme' - This readme file explains the structure for third question.
+
+'research1-gopi/readme' - This readme file explains the structure for first question.
 
 
 2) 
